@@ -44,11 +44,6 @@ cli:
      hash: 54a66db6c892b2a0999754841f4ca68511741b88ea3ab20c7cd504a027f465f5
      link: https://downloads.getmonero.org/cli/win64
      icon: icon-windows
-     vers: 
-   - platform: Windows 32-bit
-     hash: 1a9824742aa1587023c3bddea788c115940cfd49371c78a8dd62c40113132d01
-     link: https://downloads.getmonero.org/cli/win32
-     icon: icon-windows
      vers:
    - platform: macOS Intel
      hash: 32c449f562216d3d83154e708471236d07db7477d6b67f1936a0a85a5005f2b8
